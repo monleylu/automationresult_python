@@ -1,0 +1,2 @@
+# automationresult_python
+python版本通用测试结果定义
